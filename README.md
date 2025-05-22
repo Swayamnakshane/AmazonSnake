@@ -1,4 +1,3 @@
-Thanks! Here's the **updated blog post** with your **preferred Amazon Q CLI installation commands using `.deb` package** for Linux systems.
 
 ---
 
